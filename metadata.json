@@ -1,0 +1,5 @@
+{
+  "name": "图钉 · PinPoint",
+  "description": "让像素，归于经纬。基于多模态大模型的专业 OSINT 视觉地理情报分析系统。",
+  "requestFramePermissions": []
+}
